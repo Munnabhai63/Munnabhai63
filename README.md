@@ -24,10 +24,10 @@ I run **[Mahi Tech Group](https://github.com/mahi-tech-group)** - a product comp
 
 | System | Description | Language | Status |
 | :--- | :--- | :--- | :--- |
-| **[mahi-tech-group](https://github.com/Munnabhai63/mahi-tech-group)** | — | JavaScript | 🔓 Public |
-| **mahiskills** | — | TypeScript | 🔒 Private |
-| **yoyo-smm-panel** | oyo-smm-panel | JavaScript | 🔒 Private |
-| **mahi-browser** | — | TypeScript | 🔒 Private |
+| **[mahi-tech-group](https://github.com/Munnabhai63/mahi-tech-group)** | Decentralized team orchestration platform - democratic voting, parallel execution, self-hosted UPI payments, a | JavaScript | 🔓 Public |
+| **mahiskills** | Full skills marketplace platform - multi-module catalog, auth, and growth systems | TypeScript | 🔒 Private |
+| **yoyo-smm-panel** | SMM automation panel - order engines, service catalog, provider integrations | JavaScript | 🔒 Private |
+| **mahi-browser** | Enterprise anti-detect browser platform - identity management, licensing and auth systems | TypeScript | 🔒 Private |
 
 <sub>Auto-synced from the GitHub API every 6 hours.</sub>
 <!-- AUTOMATED:REPOS:END -->
