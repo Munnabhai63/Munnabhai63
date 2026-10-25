@@ -1,0 +1,30 @@
+name: Auto-update profile repositories
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'   # every 6 hours
+  workflow_dispatch:          # manual trigger from Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+
+      - name: Sync repository section into README
+        env:
+          PROFILE_PAT: ${{ secrets.PROFILE_PAT }}
+        run: node .github/scripts/sync-repos.mjs
+
+      - name: Commit if changed
+        run: |
+          git config user.name "Munna Auto-Sync"
+          git config user.email "Munnabhai63@users.noreply.github.com"
+          git diff --quiet README.md || (git add README.md && git commit -m "chore(profile): auto-sync repository list" && git push)
