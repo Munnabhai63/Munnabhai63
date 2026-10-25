@@ -19,6 +19,10 @@ I run **[Mahi Tech Group](https://github.com/mahi-tech-group)** - a product comp
 
 <sub>Private systems ship under the same engineering standards: automated test batteries, immutable audit trails, encrypted secrets, zero hardcoded credentials.</sub>
 
+<!-- AUTOMATED:REPOS:START -->
+<!-- This section is auto-updated by GitHub Actions. Do not edit manually. -->
+<!-- AUTOMATED:REPOS:END -->
+
 ---
 
 ### 🛠️ The stack behind all of it
