@@ -24,8 +24,8 @@ I run **[Mahi Tech Group](https://github.com/mahi-tech-group)** - a product comp
 
 | System | Description | Language | Status |
 | :--- | :--- | :--- | :--- |
-| **mahiskills** | Full skills marketplace platform - multi-module catalog, auth, and growth systems | TypeScript | 🔒 Private |
 | **digihubsell** | — | TypeScript | 🔒 Private |
+| **mahiskills** | Full skills marketplace platform - multi-module catalog, auth, and growth systems | TypeScript | 🔒 Private |
 | **desktop-tutorial** | GitHub Desktop tutorial repository | — | 🔒 Private |
 | **[mahi-tech-group](https://github.com/Munnabhai63/mahi-tech-group)** | Decentralized team orchestration platform - democratic voting, parallel execution, self-hosted UPI payments, a | JavaScript | 🔓 Public |
 | **yoyo-smm-panel** | SMM automation panel - order engines, service catalog, provider integrations | JavaScript | 🔒 Private |
