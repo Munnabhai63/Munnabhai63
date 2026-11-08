@@ -24,6 +24,7 @@ I run **[Mahi Tech Group](https://github.com/mahi-tech-group)** - a product comp
 
 | System | Description | Language | Status |
 | :--- | :--- | :--- | :--- |
+| **adstera** | — | Python | 🔒 Private |
 | **mahiskills** | Full skills marketplace platform - multi-module catalog, auth, and growth systems | TypeScript | 🔒 Private |
 | **ovipay** | OviPay - Self-Hosted 0% Fee UPI Payment Gateway & Multi-Tenant Checkout Engine | TypeScript | 🔒 Private |
 | **digihubsell** | — | TypeScript | 🔒 Private |
