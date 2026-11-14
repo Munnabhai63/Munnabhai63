@@ -24,6 +24,7 @@ I run **[Mahi Tech Group](https://github.com/mahi-tech-group)** - a product comp
 
 | System | Description | Language | Status |
 | :--- | :--- | :--- | :--- |
+| **mahi-browser** | Enterprise anti-detect browser platform - identity management, licensing and auth systems | TypeScript | 🔒 Private |
 | **adstera** | — | HTML | 🔒 Private |
 | **[mahi-tech-group](https://github.com/Munnabhai63/mahi-tech-group)** | Decentralized team orchestration platform - democratic voting, parallel execution, self-hosted UPI payments, a | JavaScript | 🔓 Public |
 | **digihubsell** | — | TypeScript | 🔒 Private |
@@ -32,7 +33,6 @@ I run **[Mahi Tech Group](https://github.com/mahi-tech-group)** - a product comp
 | **[autoclip](https://github.com/Munnabhai63/autoclip)** | AutoClip - Long video to short clips generator with custom duration & stability fixes | Python | 🔓 Public |
 | **desktop-tutorial** | GitHub Desktop tutorial repository | — | 🔒 Private |
 | **yoyo-smm-panel** | SMM automation panel - order engines, service catalog, provider integrations | JavaScript | 🔒 Private |
-| **mahi-browser** | Enterprise anti-detect browser platform - identity management, licensing and auth systems | TypeScript | 🔒 Private |
 
 <sub>Auto-synced from the GitHub API every 6 hours.</sub>
 <!-- AUTOMATED:REPOS:END -->
