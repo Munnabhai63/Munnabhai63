@@ -24,8 +24,8 @@ I run **[Mahi Tech Group](https://github.com/mahi-tech-group)** - a product comp
 
 | System | Description | Language | Status |
 | :--- | :--- | :--- | :--- |
-| **mahi-browser** | Enterprise anti-detect browser platform - identity management, licensing and auth systems | TypeScript | 🔒 Private |
-| **adstera** | — | HTML | 🔒 Private |
+| **[adstera](https://github.com/Munnabhai63/adstera)** | — | HTML | 🔓 Public |
+| **[mahi-browser](https://github.com/Munnabhai63/mahi-browser)** | Enterprise anti-detect browser platform - identity management, licensing and auth systems | TypeScript | 🔓 Public |
 | **[mahi-tech-group](https://github.com/Munnabhai63/mahi-tech-group)** | Decentralized team orchestration platform - democratic voting, parallel execution, self-hosted UPI payments, a | JavaScript | 🔓 Public |
 | **digihubsell** | — | TypeScript | 🔒 Private |
 | **mahiskills** | Full skills marketplace platform - multi-module catalog, auth, and growth systems | TypeScript | 🔒 Private |
