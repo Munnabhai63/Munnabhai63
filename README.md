@@ -26,9 +26,9 @@ I run **[Mahi Tech Group](https://github.com/mahi-tech-group)** - a product comp
 | :--- | :--- | :--- | :--- |
 | **[mahi-browser](https://github.com/Munnabhai63/mahi-browser)** | Enterprise anti-detect browser platform - identity management, licensing and auth systems | TypeScript | 🔓 Public |
 | **digihubsell** | — | TypeScript | 🔒 Private |
+| **[mahi-tech-group](https://github.com/Munnabhai63/mahi-tech-group)** | Decentralized team orchestration platform - democratic voting, parallel execution, self-hosted UPI payments, a | JavaScript | 🔓 Public |
 | **ovipay** | OviPay - Self-Hosted 0% Fee UPI Payment Gateway & Multi-Tenant Checkout Engine | TypeScript | 🔒 Private |
 | **[adstera](https://github.com/Munnabhai63/adstera)** | — | HTML | 🔓 Public |
-| **[mahi-tech-group](https://github.com/Munnabhai63/mahi-tech-group)** | Decentralized team orchestration platform - democratic voting, parallel execution, self-hosted UPI payments, a | JavaScript | 🔓 Public |
 | **mahiskills** | Full skills marketplace platform - multi-module catalog, auth, and growth systems | TypeScript | 🔒 Private |
 | **[autoclip](https://github.com/Munnabhai63/autoclip)** | AutoClip - Long video to short clips generator with custom duration & stability fixes | Python | 🔓 Public |
 | **desktop-tutorial** | GitHub Desktop tutorial repository | — | 🔒 Private |
